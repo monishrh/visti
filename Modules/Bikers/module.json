@@ -1,0 +1,18 @@
+{
+    "name": "Bikers",
+    "alias": "bikers",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Bikers\\Providers\\BikersServiceProvider",
+        "Modules\\Bikers\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}
